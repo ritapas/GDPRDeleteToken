@@ -393,7 +393,7 @@ class GDPRDeleteToken extends PluginBase {
 
           <div class='gdpr'>
             <h1>Something went wrong</h1>
-            <p class='lead'>Sorry, we could not automaticaly delete your data, please contact the e-mailadress below to remove your data</p>
+            <p class='lead'>Sorry, we could not automaticaly delete your data, please contact the e-mail address below to remove your data</p>
             <a href='mailto://$contact' class=''>$contact</a>
             
           </div>
